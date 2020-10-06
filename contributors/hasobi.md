@@ -1,5 +1,5 @@
 ---
 username: hasobi
-fullname: Hasobi R. Radityo
+fullname: Hasobi Roid Radityo
 ---
 
